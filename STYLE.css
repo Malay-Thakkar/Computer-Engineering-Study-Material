@@ -1,9 +1,16 @@
-body{
+.fram_body{
   background-color: #290202;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
   margin-left:10px;
+}
+body{
+  margin: 20px;
+    background-image: url("image/book.jpg");
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
 }
 .BTN{
   margin: 4%;
